@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# this script creates all the potential AB and BC pairs based on the CTD data
+# this script creates all the potential AB and BC pairs 
 # in cases in which an AC pair exists, this is also added
 # in cases in which an AC pair does not exist, a dummy pair is added with PMID 999999
 
