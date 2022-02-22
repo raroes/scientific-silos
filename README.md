@@ -1,5 +1,11 @@
 # The impact of research silos in biomedicine
 
+Author: Raul Rodriguez-Esteban
+
+Reference: Rodriguez-Esteban R. The speed of information propagation in the scientific network distorts biomedical research. PeerJ. 2022 Jan 10;10:e12764.
+ 
+Paper Link: https://peerj.com/articles/12764/
+
 Below you can find a brief description of some of the files in this repository.
 
 #### Download data files:
